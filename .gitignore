@@ -1,0 +1,13 @@
+*.user
+*.ncb
+*.suo
+*.pyc
+*.d
+*.o
+*.pdb
+*.idb
+*.ilk
+*.obj
+*.map
+*.opensdf
+*.sdf
