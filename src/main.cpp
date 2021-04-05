@@ -4,6 +4,6 @@
 
 int main()
 {
-    invoke_template_method_app();
+    InvokeTemplateMethodApp();
     return 0;
 }

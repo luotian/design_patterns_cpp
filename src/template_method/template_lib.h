@@ -1,5 +1,4 @@
-#ifndef __TEMPLATE_LIB_H__
-#define __TEMPLATE_LIB_H__
+#pragma once
 
 class Library
 {
@@ -35,5 +34,3 @@ private:
     void Step5() {}
 };
 
-
-#endif

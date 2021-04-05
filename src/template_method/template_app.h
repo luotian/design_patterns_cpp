@@ -1,5 +1,4 @@
-#ifndef __TEMPLATE_APP_H__
-#define __TEMPLATE_APP_H__
+#pragma once
 
 #include "../base_def.h"
 #include "template_lib.h"
@@ -17,6 +16,4 @@ protected:
 
 
 
-void invoke_template_method_app();
-
-#endif
+void InvokeTemplateMethodApp();
