@@ -11,3 +11,6 @@
 *.map
 *.opensdf
 *.sdf
+*.vs
+*.filters
+proj/x64
