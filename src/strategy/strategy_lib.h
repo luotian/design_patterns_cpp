@@ -34,7 +34,7 @@ public:
     }
 };
 
-////ÐÂµÄÀ©Õ¹
+////æ–°çš„æ‰©å±•
 class FRTax : public TaxStrategy
 {
 public:

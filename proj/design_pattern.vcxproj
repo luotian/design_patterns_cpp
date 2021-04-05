@@ -140,11 +140,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="..\src\main.cpp" />
-    <ClCompile Include="..\src\strategy\strategy_app.cpp" />
     <ClCompile Include="..\src\template_method\template_app.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\src\base_def.h" />
+    <ClInclude Include="..\src\observer\observer_app.h" />
+    <ClInclude Include="..\src\observer\observer_lib.h" />
     <ClInclude Include="..\src\strategy\strategy_app.h" />
     <ClInclude Include="..\src\strategy\strategy_lib.h" />
     <ClInclude Include="..\src\template_method\template_app.h" />

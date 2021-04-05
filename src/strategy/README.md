@@ -10,7 +10,7 @@
 * 定义一系列算法，把它们一个个封装起来，并且使它们可互相替换（变化）。该模式使得算法可独立于使用它的客户程序（稳定）而变化（扩展，子类化）
 
 ### 结构
-![template method structre](./structure.png)
+![strategy structre](./structure.png)
 
 ### 要点
 * 运行时方便地根据需要在各个算法之间进行切换
