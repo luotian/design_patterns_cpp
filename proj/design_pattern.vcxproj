@@ -144,6 +144,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\src\base_def.h" />
+    <ClInclude Include="..\src\bridge\bridge_app.h" />
+    <ClInclude Include="..\src\bridge\bridge_lib.h" />
     <ClInclude Include="..\src\decorator\decorator_app.h" />
     <ClInclude Include="..\src\decorator\decorator_lib.h" />
     <ClInclude Include="..\src\observer\observer_app.h" />

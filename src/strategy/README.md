@@ -14,4 +14,4 @@
 
 ### 要点
 * 运行时方便地根据需要在各个算法之间进行切换
-* 含有许多条件判断的代码（if-else OR swtich-case）通畅都需要Strategy模式
+* 含有许多条件判断的代码（if-else OR swtich-case）通常都需要Strategy模式
