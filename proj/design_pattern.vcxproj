@@ -143,6 +143,8 @@
     <ClCompile Include="..\src\template_method\template_app.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\src\abstract_factory\abstract_factory_app.h" />
+    <ClInclude Include="..\src\abstract_factory\abstract_factory_lib.h" />
     <ClInclude Include="..\src\base_def.h" />
     <ClInclude Include="..\src\bridge\bridge_app.h" />
     <ClInclude Include="..\src\bridge\bridge_lib.h" />
