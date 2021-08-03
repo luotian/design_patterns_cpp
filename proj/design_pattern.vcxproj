@@ -148,6 +148,8 @@
     <ClInclude Include="..\src\base_def.h" />
     <ClInclude Include="..\src\bridge\bridge_app.h" />
     <ClInclude Include="..\src\bridge\bridge_lib.h" />
+    <ClInclude Include="..\src\builder\builder_app.h" />
+    <ClInclude Include="..\src\builder\builder_lib.h" />
     <ClInclude Include="..\src\decorator\decorator_app.h" />
     <ClInclude Include="..\src\decorator\decorator_lib.h" />
     <ClInclude Include="..\src\factory_method\factory_app.h" />
